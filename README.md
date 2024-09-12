@@ -2,7 +2,7 @@
 
 <hr>
 
-Bonjour, je suis un étudiant en 2ème année d'étude d'informatique à l'EPSI Lyon. 
+Bonjour, je suis un étudiant en 3ème année d'étude d'informatique à l'EPSI Lyon. 
 Vous pouvez retrouver la plupart de mes projets sur mon github. 
 
 <hr>
